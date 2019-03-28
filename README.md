@@ -1,4 +1,4 @@
-# Included patterns.
+# Included patterns
 
 ActivityPresenterCoordinator-Pattern
 
