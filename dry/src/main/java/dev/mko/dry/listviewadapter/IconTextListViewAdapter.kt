@@ -1,4 +1,4 @@
-package dev.mko.dry
+package dev.mko.dry.listviewadapter
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -8,6 +8,7 @@ import android.widget.ArrayAdapter
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
+import dev.mko.dry.R
 
 abstract class IconTextListViewAdapter<T>(
     context: Context, private val dataItems: List<T>,
